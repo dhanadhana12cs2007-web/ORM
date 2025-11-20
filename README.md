@@ -25,8 +25,9 @@ Execute Django admin and create details for 10 books
 
 ## PROGRAM
 
+<img width="1915" height="1025" alt="image" src="https://github.com/user-attachments/assets/1c24b439-50fc-472b-acec-b1ee130052a0" />
 
-
+NAME:V.DHANADEVAN REGISTER NUMBER:25013996
 ## OUTPUT
 
 Include the screenshot of your admin page.
